@@ -1,8 +1,9 @@
-# Code repository for Lightner and Hagen (2020) EHS paper
+# Code and supplementary repository for Lightner and Hagen (2020) EHS paper
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118454.svg)](https://doi.org/10.5281/zenodo.4118454)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118454.svg)](https://doi.org/10.5281/zenodo.4118454) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118474.svg)](https://doi.org/10.5281/zenodo.4118474)
 
-Here is the analysis code and required R environment for reproducing the paper, "Acculturation and market integration are associated with greater trust among Tanzanian Maasai pastoralists". Note that we use the [renv package](https://rstudio.github.io/renv/articles/renv.html) to ensure reproducibility across different machines and at different times.
+Here is the analysis code with the required R environment for reproducing the paper, "Acculturation and market integration are associated with greater trust among Tanzanian Maasai pastoralists". Note that we use the [renv package](https://rstudio.github.io/renv/articles/renv.html) to ensure reproducibility across different machines and at different times.
 
 Supplementary materials are included here as a pdf, titled `supplementary.pdf`. They are also linked to a stable and long-term repo on zenodo, referenced in the main paper and [linked here](https://doi.org/10.5281/zenodo.4118474).
 
