@@ -11,7 +11,7 @@ d <- d %>%
 # To re-run hierarchical clustering: uncomment, run, and save
 # **NOTE**: takes time to run -- Time difference of 50.847 mins
 # m <- pvclust(d, method.hclust = 'ward.D', nboot=1e4)
-# save(m, file='data/hclust_imputation')
+# save(m, file='hclust_imputation')
 
 
 # create cuts for dendrogram and assign clusters --------------------------
